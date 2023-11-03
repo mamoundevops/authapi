@@ -1,0 +1,31 @@
+
+##################
+Steps 
+##################
+
+
+1 - Install react js and tailwind css and create the first template
+2 - Add routes and create pages
+3 - Create header component
+4 - Create and run the server
+5 - Connect to the database
+6 - Create user model
+7 - Create a test API route
+8 - Create sign up API route
+9 - Add a middleware and a function to handle errors
+10 - Complete sign up page UI
+11 - Complete sign up page functionality
+12 - Create sign in API route
+13 - Complete the sign in page functionality
+14 - Add redux toolkit
+15 - Add redux persist
+16 - Create and add OAuth component
+17 - Update header component and make the profile page private
+18 - Complete profile page UI
+19 - Complete image upload functionality using firebase storage
+20 - Create update user API route
+21 - Complete update user functionality
+22 - Add delete user functionality
+23 - Add sign out user functionality
+24 - Complete home and about pages
+25 - Deploy to render
